@@ -21,7 +21,7 @@
 
 I have built 2 models for this task:
 
-* **VQA Model 1** - This model is a combination of pretrained Resnet-52 and bi-layer LSTM with pretrained word embeddings from word2vec. The feature vector from both the model is then fused via late fusion. The model is trained on the VQA dataset. The model is trained for 10 epochs and the loss is 0.5. The model is saved in the `resnet_word2vec_model` folder along with optimizers.
+* **VQA Model 1** - This model is a combination of pretrained Resnet-52 and bi-layer LSTM with pretrained word embeddings from word2vec. The feature vector from both the model is then fused via late fusion. The model is trained on the VQA dataset. The model is trained for 10 epochs and the loss is 0.5. The model is saved in the [resnet_word2vec_model](https://drive.google.com/drive/folders/1TP79FlfRhC1ts7LHEa2Tl5sOj75P1PzW?usp=sharing) folder in drive along with optimizers.
     * The training results can be imporved by training the model for more epochs.
     * Also using different samplers too can improve the results.
 
