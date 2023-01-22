@@ -63,6 +63,6 @@ I have built 2 models for this task:
 
 ## **Screenshots**
 --------------------------------
-![Screenshot](assets\predicted-image-1.png)
-![Screenshot](assets\predicted_image_2.png)
-# VQA
+![Screenshot](assets/predicted-image-1.png)
+![Screenshot](assets/predicted_image_2.png)
+
